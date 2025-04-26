@@ -1,1 +1,1 @@
-# new-repo
+This is about practicing git commands and using github
